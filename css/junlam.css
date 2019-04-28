@@ -1,0 +1,16 @@
+.jltogether {
+    background: #fff url(../images/Logo-together-capital.png) no-repeat center center;}
+.jldeveloper {
+    background: #fff url(../images/developer_w.jpg) no-repeat center center;}
+.jlroles {
+    background: #fff url(../images/roles_jun.png) no-repeat center center;}
+.junlam {
+  min-height: 120px;
+  background-size: 100% auto;
+  width: 100%;
+  float: left;
+  clear: both;
+}
+.jlselected {
+  min-height:150px;
+}
